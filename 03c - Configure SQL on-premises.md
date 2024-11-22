@@ -7,7 +7,7 @@ The necessary permission for Microsoft Purview Data Map to execute the scan proc
 In this step we will use Microsoft SQL Server management Studio to add a new account and set the permissions accordint to the images below. 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/e372e357-130b-4ea6-af55-711d154d35b8" width="700"></p>
+<img src="https://github.com/user-attachments/assets/e372e357-130b-4ea6-af55-711d154d35b8" width="900"></p>
 <p align="center">Microsoft SQL Server Management Studio, adding SQL account</p>
 
 <br><br>
